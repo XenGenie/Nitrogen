@@ -1,0 +1,12 @@
+[submodule "xVitals"]
+	path = xVitals
+	url = https://github.com/SuperDomX/xVitals.git
+[submodule "xBanner"]
+	path = xBanner
+	url = https://github.com/SuperDomX/xBanner
+[submodule "xNavigation"]
+	path = xNavigation
+	url = https://github.com/SuperDomX/xNavigation
+[submodule "xBlox"]
+	path = xBlox
+	url = https://github.com/SuperDomX/xBlox
