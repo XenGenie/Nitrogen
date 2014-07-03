@@ -1,5 +1,5 @@
 #!/bin/bash
-array=(xAnalytics xBanner xNavigation xBlox)
+array=(xVitals xBanner xNavigation xBlox)
 
 echo "Array size: ${#array[*]}"
 

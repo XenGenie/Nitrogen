@@ -10,3 +10,9 @@
 [submodule "xBlox"]
 	path = xBlox
 	url = https://github.com/SuperDomX/xBlox
+[submodule "xBlog"]
+	path = xBlog
+	url = https://github.com/SuperDomX/xBlog.git
+[submodule "xContact"]
+	path = xContact
+	url = https://github.com/SuperDomX/xContact
