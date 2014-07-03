@@ -1,6 +1,6 @@
 [submodule "xVitals"]
 	path = xVitals
-	url = https://github.com/SuperDomX/xVitals.git
+	url = https://github.com/SuperDomX/xVitals
 [submodule "xBanner"]
 	path = xBanner
 	url = https://github.com/SuperDomX/xBanner
@@ -12,7 +12,7 @@
 	url = https://github.com/SuperDomX/xBlox
 [submodule "xBlog"]
 	path = xBlog
-	url = https://github.com/SuperDomX/xBlog.git
+	url = https://github.com/SuperDomX/xBlog
 [submodule "xContact"]
 	path = xContact
 	url = https://github.com/SuperDomX/xContact
